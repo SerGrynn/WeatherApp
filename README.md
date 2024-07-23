@@ -1,5 +1,7 @@
 # WeatherApp
 
+Language used : HTML/CSS/JAVASCRIPT
+
 An app which allows you to check the weather of the current day, input your town name on the search bar. Temperature is in Celsius it includes humidity and wind speed
 
 The app has an API from https://openweathermap.org/
